@@ -23,3 +23,22 @@ inputNode.addEventListener("keydown", function (evt) {
     this.value = "";
   }
 });
+
+let check = document.querySelectorAll("li");
+console.log(check);
+check.addEventListener("click") 
+  if (swap.code === "click") {
+    
+  }
+  alert("pee")
+  for (let a = 0; a < check.length; a++) {
+    
+    if (check[a].checked) {
+      check[a].classlist.add("itemChecked");
+
+    }
+
+  }
+ 
+  
+

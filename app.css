@@ -10,3 +10,9 @@ body {
   text-decoration: line-through;
   color: gray;
 }
+
+.itemChecked{
+  color: gray;
+  text-decoration: line-through;
+
+}
