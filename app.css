@@ -5,3 +5,8 @@
 body {
   background-color: #eeeeee;
 }
+
+.class {
+  text-decoration: line-through;
+  color: gray;
+}
